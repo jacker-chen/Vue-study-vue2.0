@@ -1,12 +1,15 @@
 <template>
   <div>
-    <router-view></router-view>
+    菜单管理
   </div>
 </template>
 
 <script>
 export default {
-  name: "App",
-  components: {},
-};
+    name:"SysMenu"
+}
 </script>
+
+<style>
+
+</style>

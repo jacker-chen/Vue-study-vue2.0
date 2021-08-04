@@ -1,12 +1,15 @@
 <template>
   <div>
-    <router-view></router-view>
+    权限管理
   </div>
 </template>
 
 <script>
 export default {
-  name: "App",
-  components: {},
-};
+    name:"SysAuth"
+}
 </script>
+
+<style>
+
+</style>
