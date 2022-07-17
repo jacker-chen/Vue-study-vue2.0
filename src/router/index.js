@@ -106,6 +106,7 @@ router.beforeEach((to, from, next) => {
 
 });
 
+
 //菜单转路由
 const menuToRouter = (menu) => {
 	if (!menu.component) {
